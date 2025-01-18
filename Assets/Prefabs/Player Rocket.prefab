@@ -136,8 +136,8 @@ MonoBehaviour:
       m_Action: Rotate
       m_Flags: 8
     m_Flags: 0
-  baseThrustForce: 1000
-  baseRotationSpeed: 150
+  baseThrustForce: 1800
+  baseRotationSpeed: 160
   mainEngine: {fileID: 8300000, guid: c54a7a63319924d4a810fe386b5e6b70, type: 3}
   mainThrustParticles: {fileID: 5296358181925505944}
   leftSideThrustParticles: {fileID: 7011812064559867791}
