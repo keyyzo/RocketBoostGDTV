@@ -62,6 +62,8 @@ public class CollisionHandler : MonoBehaviour
             isCollidable = !isCollidable;
             Debug.Log("Current collision status: " + isCollidable);
         }
+
+
     }
 
     private void OnCollisionEnter(Collision collision)
